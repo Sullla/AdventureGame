@@ -1,0 +1,17 @@
+﻿Hello stranger, welcome to my world where you will not be escape. 
+You have 5 rooms where each room has 1-3 items. 
+Your mission is to clear all rooms and complete the game.  
+Good luck!
+---------------------------------------
+End of road
+You are at the end of a road at the top of a small hill.
+You can see a small building in the valley to the east.
+-----
+EAST      1
+
+ 3
+Inside building
+You are inside a building, a well house for a large spring.
+-----
+SOUTH     1
+OUT       1
