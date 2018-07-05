@@ -1,0 +1,298 @@
+6
+1
+1
+Entrance Foyer
+****
+2
+You are detective who asked to investigate a mysterious house  due to a recent murder. 
+You entered the house by using main door and you are in the first room.
+****
+1
++
+You found GUN and CROSS lying on the table 
++
+Do not forget to take the required objects before you leave.
++
+There is a sign hanging on the wall that says "HELP". 
+what could that be? i guess i would need to type that in order to find out. 
++
+****
+The room that you are in is foyer which has only one door. Seems like there is no sight of a light source in the whole house, 
+you will need to find a flashilight in order to see.
+****
+1
+~~~~~~~~~~~~~~
++ 
+There is a sign hanging on the wall that says "HELP". 
+what could that be? i guess i would nee to type that in order to find out. 
++
+****
+2
+EAST 2 
++
+Hint: The house is filled with the darkness and monsters, so you better take the required items with you(Hand gun, Holly Cross).
+===
+****
+<>
+GUN
+Revolver
+===
+Nagant M1895 Revolver. It is a quite old revolver that was produced in 1895. it is my favorite one.
+===
+3 
++
+<>
+CROSS		
+Holly Cross
+===
+Holly cross used against magical creatures. Gives a damage resistance
+===
+3 
++
+****
+----
+****
+2
+2
+Hallways
+****
+2
+You are currently in hallways, you can see that the hallway divides into three different hallways. To the NORTH there is statue that blocks the way.
+
+****
+0
+You are currently in hallways, you can see that the hallway divides into three different hallways. To the NORTH there is statue that blocks the way.
+****
+0
+2
+EAST 4
+ -
+dummy text
+===
+NORTH 3 
+-
+The statue of a Gargoyle is blocking the way.....it turns out to be alive Gargoyle, so BATTLE it to clear the way
+===
+WEST 1
+-
+*no items needed*
+****
+><
+****
+###
+ENEMY
+Gargoyle
+===
+Gargoyle: i.. i... i.. am crumbling.....into pieces...aghhhh
+===
+Gargoyle: And now, since you are dead i will collect your blood for my Master!!!
+===
+20
+9
+1
+NORTH
+<>
+ALCOHOL
+Old whisky
+===
+Used bottle of whisky that is half full only, USE this to feel better.
+===
+
+27
+
+You have regained 27 health!
+===
+<>
+===
+
+===
+0
+===
+****
+3
+
+2
+Home workshop
+****
+2
+You entered a Home workshop that is filled with tools, but what is it? you can see flashligh lying on the ground. This item might be very handy.
+****
+0
+You entered a Home workshop that is filled with tools, but what is it? you can see flashligh lying on the ground. This item might be very handy.
+****
+0
+2
+SOUTH 2
+ >
+Detective Conan: Hmmm.. there is something about this room i cant leave yet.
+****
+<>
+FLASHLIGHT
+Hand Flashlight
+===
+Just a regular flashlight that perfectly fits in the hand
+===
+4 
+>
+****
+###
+ENEMY
+Stone Gargoyle
+===
+Stone Gargoyle: SSoorry..Master, I...I.. failed .. you. 
+===
+Stone Gargoyle: We are sent by our master to put you down, he wants to taste some of your blood!
+===
+20
+9
+1
+FORCED
+<>
+ALCOHOL
+Old Whisky
+===
+Used bottle of whisky that is half full only, USE this to feel better.
+===
+20
+You have regained 20 health!
+===
+<>
+
+===
+
+===
+0
+===
+****
+4
+3
+Lifeless room
+****
+2
+As you turned on the flashlight it cleared the your visibility in the room. You now can see that there is a hidden SECRET door behind a book shelf. I better LOOK at it.
+****
+0
+As you turned on the flashlight it cleared the your visibility in the room. You now can see that there are doors that would lead you to different room. I better LOOK at it.
+****
+0
+3
+EAST 6
+ -
+*no items needed*
+===
+WEST 2
+-
+*no items needed*
+===
+NORTH 4
+-
+*no items needed*
+****
+<>
+SECRET
+Secret door 
+===
+As you approaching towards this mysterious door you can see that it leads to a different room.
+===
+5 
+-
+****
+###
+ENEMY
+Cement Gargoyle
+===
+Cement Gargoyle: This place is forbidden for mortals like you!!
+===
+Cement Gargoyle: Behold my power!!
+===
+20
+9
+1
+NORTH
+<>
+ALCOHOL
+Glass of Wine
+===
+A glass of wine on the table, if you USE this, you will increase your max health.
+===
+15
+You have increased your max health by 15
+===
+****
+5
+0
+Secret room
+****
+2
+
+The room that only has book shelves with the books in it that look like a small library. Among all books you find old colt that is covered in dust.
+****
+1
+Detective Conan: Hmmm..Looks like a room where he usually reads his books.
++
+****
+Room with books
+****
+0
+2
+FORCED 4
+ +
+*no description*
+****
+<>
+GUN
+Vampire Colt
+===
+An unique gun that used against vampires only.
+===
+10 
++
+****
+---
+****
+6
+0
+Lord Vampire's Bedchamber
+****
+2
+The room where Lord Vampire is living in seems to big for a bedchanber.
+****
+1
+The vampire's standing at the other end of the room ready to fight.
++
+Lord Vampire: Hello detective, i knew you you would eventually find me.
++
+Detective Conan: You have commited series of murders, and it is time to pay for your crimes.
++
+****
+The room where Lord Vampire is living in seems to big for a bedchanber.
+****
+1
+The vampire's standing at the other end of the room ready to fight.
++
+Lord Vampire: Hello detective, i knew you you would eventually find me.
++
+Detective Conan: You have commited series of murders, and it is time to pay for your crimes.
++
+****
+2
+WEST 4
+ -
+*no items needed*
+===
+****
+><
+****
+###
+BOSS
+Lord Vampire
+===
+Lord Vampire: I....was... defeated!? By.. a mortal!?No.. way.
+===
+Goblin: pfftt.. no match.. Kluolan Scum.
+===
+54
+10
+3
+EAST
+****

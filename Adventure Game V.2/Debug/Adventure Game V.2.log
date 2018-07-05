@@ -1,0 +1,28 @@
+﻿  AdventureManager.cpp
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(91): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(419): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(464): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(507): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(551): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(728): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(735): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(755): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(864): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(903): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(921): warning C4018: '>=': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(938): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(957): warning C4018: '>=': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(988): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(997): warning C4018: '>=': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(1026): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(1059): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(1087): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(1122): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\adventure game v.2\adventure game v.2\adventuremanager.cpp(1124): warning C4018: '<': signed/unsigned mismatch
+  AdventureRoom.cpp
+  Main.cpp
+d:\visual studio projects\adventure game v.2\adventure game v.2\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  player.cpp
+d:\visual studio projects\adventure game v.2\adventure game v.2\player.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Adventure Game V.2.vcxproj -> D:\VIsual Studio projects\Adventure Game V.2\Debug\Adventure Game V.2.exe
